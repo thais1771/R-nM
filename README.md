@@ -4,6 +4,7 @@
 ![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-ff69b4?style=plastic?label=healthinesses)
 ![UIKit](https://img.shields.io/badge/UIFramework-UIKit-blueviolet?style=plastic?label=healthinesses)
 ![Architecture](https://img.shields.io/badge/architecture-CleanSwift-green?style=plastic?label=healthinesses)
+![Language](https://img.shields.io/badge/Language-Swift-purple?style=plastic?label=healthinesses)
 
 ## Requirements
 
